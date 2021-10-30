@@ -1,9 +1,9 @@
-## This repository contains the project files for Group 12.
+# This repository contains the project files for Group 12.
 
-#Table of Contents
+## Table of Contents
 
 
 
-# Installation
+## Installation
 
 1. 
