@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-Below is a brief description for each folder/file that were required to implement the website:
+Below is a brief description for each folder/file that was required to implement the website:
 
 **alarmclock**: A folder that contains all the source code required to implement the website. [Link to the folder] https://github.com/fzayed/iot-project/tree/main/alarmclock
 
