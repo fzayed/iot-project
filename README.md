@@ -1,8 +1,8 @@
-# This repository contains the project files for Group 12.
+# Group 12 - IoT Alarm Clock Project
 
 ## Table of Contents
 
-
+1. 
 
 ## Installation
 
