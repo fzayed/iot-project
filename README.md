@@ -10,7 +10,7 @@ Inside the **alarmclock** folder is another folder called **base** where most of
 
 - models.py: A file where our data models are stored and the entities are specified. [Link to the file] https://github.com/fzayed/iot-project/blob/main/alarmclock/base/models.py
 - urls.py: A file that contains all the URL patterns for the project and relates different pages of the application. [Link to the file] https://github.com/fzayed/iot-project/blob/main/alarmclock/base/urls.py
-- views.py: A file that handles requests and return responses. [Link to the file] https://github.com/fzayed/iot-project/blob/main/alarmclock/base/views.py
+- views.py: A file that handles requests and returns responses. [Link to the file] https://github.com/fzayed/iot-project/blob/main/alarmclock/base/views.py
 - homepage.html: A home page that the user will visit first. [Link to the file] https://github.com/fzayed/iot-project/blob/main/alarmclock/base/templates/base/homepage.html
 - confirmation.html: A confirmation page that displays a confirmation message to the user. [Link to the file] https://github.com/fzayed/iot-project/blob/main/alarmclock/base/templates/base/confirmation.html
 
